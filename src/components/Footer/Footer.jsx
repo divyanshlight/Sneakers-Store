@@ -11,17 +11,17 @@ export const Footer = () => {
   return (
     <div className="footer">
       <small> &copy; {copyrightYear}Divyansh Sharma</small>
-      {/* <div className="social-links">
-        <Link to="https://twitter.com/ichiragtaluja" target="_blank">
+      <div className="social-links">
+        <Link to="https://x.com/Divyansh0631" target="_blank">
           <BsTwitter />
         </Link>
-        <Link to="https://github.com/ichiragtaluja" target="_blank">
+        <Link to="https://github.com/divyanshlight" target="_blank">
           <ImGithub />
         </Link>
-        <Link to="https://www.linkedin.com/in/ichiragtaluja" target="_blank">
+        <Link to="https://www.linkedin.com/in/divyansh-sharma-72b5b21b2" target="_blank">
           <SiLinkedin />
         </Link>
-      </div> */}
+      </div>
     </div>
   );
 };
