@@ -71,7 +71,7 @@ export function makeServer({ environment = "development" } = {}) {
           addressList: [
             {
               _id: uuid(),
-              name: "Chirag Taluja",
+              name: "Divyansh Sharma",
               street: "4254 Central Pkwy",
               city: "Port Credit",
               state: "Ontario",
